@@ -1,0 +1,6 @@
+{
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "liveServer.settings.port": 5501
+}
